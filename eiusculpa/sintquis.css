@@ -1,0 +1,9 @@
+.carousel-container {
+  display: flex;
+  overflow: hidden;
+}
+
+.carousel-item {
+  min-width: 300px; /* Example width */
+  /* Additional styling for each item */
+}
